@@ -1,4 +1,4 @@
 # HTML-Ornekleri
 
-    HTML5 ögrenirken yaptigim yazilimlari burada paylasiyorum.
+    HTML5 ögrenirken yaptigim ornekleri burada paylasiyorum.
     
